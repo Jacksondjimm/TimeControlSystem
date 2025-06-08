@@ -1,0 +1,97 @@
+﻿@page
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@using Microsoft.AspNetCore.Http.HttpResults
+@using Microsoft.AspNetCore.Identity
+@using Microsoft.AspNetCore.Mvc
+@using Microsoft.AspNetCore.Mvc.RazorPages
+@using Microsoft.Extensions.Configuration.EnvironmentVariables
+@using System
+@using System.Data
+
+@using Microsoft.AspNetCore.Authorization
+@using Microsoft.AspNetCore.Authentication.Cookies
+@using System.Security.Claims
+@using Microsoft.AspNetCore.Authentication
+
+@model RazorPagesApp.Pages.IndexModel
+
+@{
+
+
+}
+   
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset='utf-8' />
+        <title>Ваша фирма</title>
+        <h2>Система учёта времени ООО "Ваша фирма"</h2>
+    </head>
+    <body text="#E6E6FA" bgcolor="#000000">
+        <button> <a asp-page="login">Войти</a></button>
+        Главная
+        <button> <a asp-page="VisitorLog">Журнал посещений</a></button>
+        <button> <a asp-page="Report">Учёт времени</a></button>
+        <button> <a asp-page="manage">Администрирование</a></button>
+        <br>
+        <br>
+        @*
+        <a href="/login">Войти</a> 
+        <a href="/VisitorLog">Журнал посещений</a>
+        <a href="/Report">Учёт времени</a>
+        <a href="/manage">Администрирование</a>
+        *@
+        
+        <div>@Model.Message</div>
+        
+        <h3>Список сотрудников</h3>
+        <table>
+            <colgroup>
+                <col span="1" style="background:DarkSlateGrey">                         <!-- Фон первого столбца таблицы-->
+                <col span="4" style="background-color:DimGrey">                  <!-- Фон для следующего(следующих) столбца таблицы-->
+            </colgroup>
+            <tr align=center style="background:Purple; color: #E6E6FA">
+                <th>Id</th>
+                <th>Фамилия</th>
+                <th>Имя</th>
+                <th>Отчество</th>
+                <th>эл.почта</th>
+            </tr>
+            @foreach (var user in Model.Users)
+            {
+                <tr><td>@user.Id</td><td>@user.Surname</td><td>@user.Name</td><td>@user.Patronymic</td><td>@user.Email</td></tr>
+            }
+        </table>
+        <h3>Список приложенных к валидатору карт</h3>
+        <table>
+            <colgroup>
+                <col span="1" style="background:DarkSlateGrey">                         <!-- Фон первого столбца таблицы-->
+                <col span="7" style="background-color:DimGrey">                  <!-- Фон для следующего(следующих) столбца таблицы-->
+            </colgroup>
+            <tr align=center style="background:Purple; color: #E6E6FA">
+                <th>Id</th>
+                <th>Фамилия</th>
+                <th>Имя</th>
+                <th>Отчество</th>
+                <th>Номер</th>
+                <th>Дата</th>
+                <th>Время</th>
+                <th>Кабинет</th>
+            </tr>
+        @foreach (var CardBuffer in Model.CardBuffers.OrderByDescending(p=>p.date))
+        {
+            <tr>
+                <td>@CardBuffer.Id</td>
+                <td>@CardBuffer.Surname</td>
+                <td>@CardBuffer.Name</td>
+                <td>@CardBuffer.Patronymic</td>
+                <td>@CardBuffer.Num</td>
+                <td>@CardBuffer.date.ToShortDateString()</td>
+                <td>@CardBuffer.date.ToShortTimeString()</td>
+                <td>@CardBuffer.Room</td>
+            </tr>
+        }
+        </table>
+
+    </body>
+    </html>

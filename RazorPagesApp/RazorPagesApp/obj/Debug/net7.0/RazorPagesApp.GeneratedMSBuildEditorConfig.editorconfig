@@ -1,0 +1,45 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RazorPagesApp
+build_property.RootNamespace = RazorPagesApp
+build_property.ProjectDir = G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 7.0
+build_property.EnableCodeStyleSeverity = 
+
+[G:/Works/C\#/25_03_12 time control system Authoriz Admin 3DB с нав св-вом/RazorPagesApp/RazorPagesApp/Pages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Works/C\#/25_03_12 time control system Authoriz Admin 3DB с нав св-вом/RazorPagesApp/RazorPagesApp/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Works/C\#/25_03_12 time control system Authoriz Admin 3DB с нав св-вом/RazorPagesApp/RazorPagesApp/Pages/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Works/C\#/25_03_12 time control system Authoriz Admin 3DB с нав св-вом/RazorPagesApp/RazorPagesApp/Pages/logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbG9nb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Works/C\#/25_03_12 time control system Authoriz Admin 3DB с нав св-вом/RazorPagesApp/RazorPagesApp/Pages/manage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbWFuYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Works/C\#/25_03_12 time control system Authoriz Admin 3DB с нав св-вом/RazorPagesApp/RazorPagesApp/Pages/Report.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVwb3J0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

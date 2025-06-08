@@ -1,0 +1,118 @@
+﻿@page
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model RazorPagesApp.Pages.ReportModel
+
+@{
+}
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset='utf-8' />
+    <title>Ваша фирма</title>
+    <h2>Отчёт посещаемости ООО "Ваша фирма"</h2>
+    </head>
+    <body text="#E6E6FA" bgcolor="#000000">
+        <button> <a asp-page="login">Войти</a></button>
+        <button> <a asp-page="Index">Главная</a></button>
+        <button> <a asp-page="VisitorLog">Журнал посещений</a></button>
+        Учёт времени
+        <button> <a asp-page="manage">Администрирование</a></button>
+        <br>
+        <br>
+        
+            <h2>@Model.Message</h2>    
+            <form metod ="post" asp-antiforgery="true">
+            <p>
+                <label asp-for="SelectedTime.Year">Выбрерите год</label><br />
+                <input type="text" asp-for="SelectedTime.Year"></input>
+            </p>
+            <p>
+                <label asp-for="SelectedTime.MonthId">Выбрерите месяц</label><br />
+                <select asp-for="SelectedTime.MonthId" asp-items="Model.Months"></select>
+            </p>
+            @*<input type="submit" value="Отправить" />*@
+       
+
+            <h3>Список сотрудников</h3>
+            <table>
+                <colgroup>
+                    <col span="1" style="background:DarkSlateGrey">                         <!-- Фон первого столбца таблицы-->
+                    <col span="5" style="background-color:DimGrey">                  <!-- Фон для следующего(следующих) столбца таблицы-->
+                </colgroup>
+                <tr align=center style="background:Purple; color: #E6E6FA">
+                    <th>Id</th>
+                    <th>Фамилия</th>
+                    <th>Имя</th>
+                    <th>Отчество</th>
+                    <th>эл.почта</th>
+                    <th>Команда</th>
+                </tr>
+                    @foreach (var user in Model.Users)
+                    {
+                        <tr>
+                        <td>@user.Id</td>
+                        <td>@user.Surname</td>
+                        <td>@user.Name</td>
+                        <td>@user.Patronymic</td>
+                        <td>@user.Email</td>
+                        <td><button type="submit" asp-page-handler="man" asp-route-id="@user.Id">Отчёт</button></td>
+                        </tr>
+                    }
+            </table>
+            </form>
+
+    @*
+        <h3>Отчёт посещения всех сотрудников за выбранный период: @Model.Message</h3>
+    
+            <table>
+                <tr><th>"Id"</th><th>"Email сотрудника"</th><th>Статус</th><th>Время</th></tr>
+                @foreach (var TimeTrack in Model.TimeTracks.OrderByDescending(p => p.dateStamp))
+                {
+                    <tr>
+                        <td>@TimeTrack.Id</td>
+                        <td>@TimeTrack.User.Email</td>
+                        <td>@TimeTrack.status</td>
+                        <td>@TimeTrack.dateStamp.ToShortTimeString()</td>
+                    </tr>
+                }
+            </table>
+    *@
+
+        <h3>Отчёт посещения за выбранный период: @Model.Message</h3>
+            <table>
+                <colgroup>
+                    <col span="1" style="background:DarkSlateGrey">                         <!-- Фон первого столбца таблицы-->
+                    <col span="8" style="background-color:DimGrey">                  <!-- Фон для следующего(следующих) столбца таблицы-->
+                </colgroup>
+                <tr align=center style="background:Purple; color: #E6E6FA">
+                    <th>"Id"</th>
+                    <th>Фамилия</th>
+                    <th>Имя</th>
+                    <th>Отчество</th>
+                    <th>эл.почта</th>
+                    <th>Дата</th>
+                    <th>Пришёл</th>
+                    <th>Ушёл</th>
+                    <th>Время</th>
+                </tr>
+                    @foreach (var reportMounth in Model.reportMounthDaily.OrderBy(p => p.dateStampOut))
+                    {
+                        <tr>
+                            <td>@reportMounth.Id</td>
+                            <td>@reportMounth.User.Surname</td>
+                            <td>@reportMounth.User.Name</td>
+                            <td>@reportMounth.User.Patronymic</td>
+                            <td>@reportMounth.User.Email</td>
+                            <td>@reportMounth.dateStampIn.ToShortDateString()</td>
+                            <td>@reportMounth.dateStampIn.ToShortTimeString()</td>
+                            <td>@reportMounth.dateStampOut.ToShortTimeString()</td>
+                            <td>@reportMounth.WorkDayDura</td>
+                        </tr>
+                    }
+            </table>
+
+    </body>
+    </html>
+
+

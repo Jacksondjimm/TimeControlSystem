@@ -1,0 +1,7 @@
+G:\Works\C#\25_01_25 time control system\RazorPagesApp\RazorPagesApp\obj\Release\net7.0\PubTmp\Out\RazorPagesApp.exe
+G:\Works\C#\25_01_25 time control system\RazorPagesApp\RazorPagesApp\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+G:\Works\C#\25_01_25 time control system\RazorPagesApp\RazorPagesApp\obj\Release\net7.0\PubTmp\Out\appsettings.json
+G:\Works\C#\25_01_25 time control system\RazorPagesApp\RazorPagesApp\obj\Release\net7.0\PubTmp\Out\RazorPagesApp.dll
+G:\Works\C#\25_01_25 time control system\RazorPagesApp\RazorPagesApp\obj\Release\net7.0\PubTmp\Out\RazorPagesApp.deps.json
+G:\Works\C#\25_01_25 time control system\RazorPagesApp\RazorPagesApp\obj\Release\net7.0\PubTmp\Out\RazorPagesApp.runtimeconfig.json
+G:\Works\C#\25_01_25 time control system\RazorPagesApp\RazorPagesApp\obj\Release\net7.0\PubTmp\Out\RazorPagesApp.pdb

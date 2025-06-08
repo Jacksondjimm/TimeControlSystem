@@ -1,0 +1,117 @@
+﻿@page
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model RazorPagesApp.Pages.manageModel
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset='utf-8' />
+    <title>Ваша фирма</title>
+    <h2>Администрирование</h2>
+    </head>
+    <body text="#E6E6FA" bgcolor="#000000">
+        <button> <a asp-page="login">Войти</a></button>
+        <button> <a asp-page="Index">Главная</a></button>
+        <button> <a asp-page="VisitorLog">Журнал посещений</a></button>
+        <button> <a asp-page="Report">Учёт времени</a></button>
+        Администрирование
+        <br>
+        <br>
+            <div>@Model.Message <button> <a asp-page="logout">Выйти</a></button> </div>
+            <h2>@Model.Message2</h2>
+            <form method="post">
+              <p>
+                <label>Фамилия:</label><br />
+                <input name="surname" />
+              </p>
+              <p><label>Имя</label><br />
+                <input name="name" />
+              </p>
+              <p>
+                <label>Отчество</label><br />
+                <input name="patronymic" />
+              </p>
+              <p>
+                <label>Номер Карты</label><br />
+                <input name="Num" />
+              </p>
+
+              <p>
+                <label>Почта:</label><br />
+                <input name="email"/>
+              </p>
+              <input type="submit" value="Отправить" />
+            </form>
+            <br />
+
+            <h3>Список приложенных к валидатору карт</h3>
+            <table>
+                <colgroup>
+                    <col span="1" style="background:DarkSlateGrey">                         <!-- Фон первого столбца таблицы-->
+                    <col span="7" style="background-color:DimGrey">                  <!-- Фон для следующего(следующих) столбца таблицы-->
+                </colgroup>
+                <tr align=center style="background:Purple; color: #E6E6FA">
+                    <th>Id</th>
+                    <th>Фамилия</th>
+                    <th>Имя</th>
+                    <th>Отчество</th>
+                    <th>Номер</th>
+                    <th>Дата</th>
+                    <th>Время</th>
+                    <th>Кабинет</th>
+                </tr>
+                    @foreach (var CardBuffer in Model.CardBuffers.OrderByDescending(p => p.date))
+                    {
+                        <tr>
+                            <td>@CardBuffer.Id</td>
+                            <td>@CardBuffer.Surname</td>
+                            <td>@CardBuffer.Name</td>
+                            <td>@CardBuffer.Patronymic</td>
+                            <td>@CardBuffer.Num</td>
+                            <td>@CardBuffer.date.ToShortDateString()</td>
+                            <td>@CardBuffer.date.ToShortTimeString()</td>
+                            <td>@CardBuffer.Room</td>
+                        </tr>
+                    }
+            </table>
+        
+            <h3>Список сотрудников</h3>
+            <table>
+                <colgroup>
+                    <col span="1" style="background:DarkSlateGrey">                         <!-- Фон первого столбца таблицы-->
+                    <col span="8" style="background-color:DimGrey">                  <!-- Фон для следующего(следующих) столбца таблицы-->
+                </colgroup>
+                <tr align=center style="background:Purple; color: #E6E6FA">
+                    <th>Id</th>
+                    <th>Фамилия</th>
+                    <th>Имя</th>
+                    <th>Отчество</th>
+                    <th>эл.почта</th>
+                    <th>Роль</th>
+                    <th>Номер карты</th>
+                    <th>Команда</th>
+                </tr>
+                @foreach (var user in Model.Users)
+                {
+                    <tr>
+                        <td>@user.Id</td>
+                        <td>@user.Surname</td>
+                        <td>@user.Name</td>
+                        <td>@user.Patronymic</td>
+                        <td>@user.Email</td>
+                        <td>@user.Role</td>
+                        <td>@user.Num</td>
+                        <td> 
+                            <form method="post">
+                                <a asp-page="Edit" asp-route-id="@user.Id"> Изменить </a>
+                                <button type="submit" asp-page-handler="delete" asp-route-id="@user.Id">
+                                    Удалить
+                                </button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </table>
+
+    </body>
+    </html>

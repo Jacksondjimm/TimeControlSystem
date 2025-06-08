@@ -1,0 +1,34 @@
+﻿@page
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model RazorPagesApp.Pages.loginModel
+@{}
+    <!DOCTYPE html>
+    <html>
+    <head>
+            <meta charset='utf-8' />
+        <title>Ваша фирма</title>
+    <h2>Login Form</h2>
+    </head>
+    <body text="#E6E6FA" bgcolor="#000000">
+        Войти
+        <button> <a asp-page="Index">Главная</a></button>
+        <button> <a asp-page="VisitorLog">Журнал посещений</a></button>
+        <button> <a asp-page="Report">Учёт времени</a></button>
+        <button> <a asp-page="manage">Администрирование</a></button>
+        <br>
+        <br>
+                <div>@Model.Message</div>
+                    <form method="post">
+                    <p>
+                        <label>Email</label><br />
+                            <input name="email" />
+                    </p>
+                    <p>
+                        <label>Password</label><br />
+                                <input type="password" name="password" />
+                    </p>
+                            <input type="submit" value="Login" />
+                </form>
+    </body>
+    </html>
+

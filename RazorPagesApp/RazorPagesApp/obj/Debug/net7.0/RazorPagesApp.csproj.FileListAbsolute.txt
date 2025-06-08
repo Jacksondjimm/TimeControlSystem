@@ -1,0 +1,451 @@
+G:\Works\C#\25_01_13 time control system\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\appsettings.Development.json
+G:\Works\C#\25_01_13 time control system\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\appsettings.json
+G:\Works\C#\25_01_13 time control system\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.exe
+G:\Works\C#\25_01_13 time control system\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.deps.json
+G:\Works\C#\25_01_13 time control system\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.runtimeconfig.json
+G:\Works\C#\25_01_13 time control system\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.dll
+G:\Works\C#\25_01_13 time control system\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.pdb
+G:\Works\C#\25_01_13 time control system\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.csproj.AssemblyReference.cache
+G:\Works\C#\25_01_13 time control system\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Works\C#\25_01_13 time control system\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.AssemblyInfoInputs.cache
+G:\Works\C#\25_01_13 time control system\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.AssemblyInfo.cs
+G:\Works\C#\25_01_13 time control system\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.csproj.CoreCompileInputs.cache
+G:\Works\C#\25_01_13 time control system\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.MvcApplicationPartsAssemblyInfo.cache
+G:\Works\C#\25_01_13 time control system\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets\msbuild.RazorPagesApp.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Works\C#\25_01_13 time control system\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets\msbuild.build.RazorPagesApp.props
+G:\Works\C#\25_01_13 time control system\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RazorPagesApp.props
+G:\Works\C#\25_01_13 time control system\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RazorPagesApp.props
+G:\Works\C#\25_01_13 time control system\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets.pack.json
+G:\Works\C#\25_01_13 time control system\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets.build.json
+G:\Works\C#\25_01_13 time control system\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets.development.json
+G:\Works\C#\25_01_13 time control system\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\scopedcss\bundle\RazorPagesApp.styles.css
+G:\Works\C#\25_01_13 time control system\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.dll
+G:\Works\C#\25_01_13 time control system\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\refint\RazorPagesApp.dll
+G:\Works\C#\25_01_13 time control system\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.pdb
+G:\Works\C#\25_01_13 time control system\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.genruntimeconfig.cache
+G:\Works\C#\25_01_13 time control system\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\ref\RazorPagesApp.dll
+G:\Works\C#\25_01_13 time control system\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.RazorAssemblyInfo.cache
+G:\Works\C#\25_01_13 time control system\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.RazorAssemblyInfo.cs
+G:\Works\C#\25_01_25 time control system\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\appsettings.Development.json
+G:\Works\C#\25_01_25 time control system\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\appsettings.json
+G:\Works\C#\25_01_25 time control system\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.exe
+G:\Works\C#\25_01_25 time control system\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.deps.json
+G:\Works\C#\25_01_25 time control system\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.runtimeconfig.json
+G:\Works\C#\25_01_25 time control system\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.dll
+G:\Works\C#\25_01_25 time control system\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.pdb
+G:\Works\C#\25_01_25 time control system\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.csproj.AssemblyReference.cache
+G:\Works\C#\25_01_25 time control system\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Works\C#\25_01_25 time control system\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.AssemblyInfoInputs.cache
+G:\Works\C#\25_01_25 time control system\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.AssemblyInfo.cs
+G:\Works\C#\25_01_25 time control system\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.csproj.CoreCompileInputs.cache
+G:\Works\C#\25_01_25 time control system\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.MvcApplicationPartsAssemblyInfo.cache
+G:\Works\C#\25_01_25 time control system\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.RazorAssemblyInfo.cache
+G:\Works\C#\25_01_25 time control system\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.RazorAssemblyInfo.cs
+G:\Works\C#\25_01_25 time control system\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets\msbuild.RazorPagesApp.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Works\C#\25_01_25 time control system\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets\msbuild.build.RazorPagesApp.props
+G:\Works\C#\25_01_25 time control system\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RazorPagesApp.props
+G:\Works\C#\25_01_25 time control system\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RazorPagesApp.props
+G:\Works\C#\25_01_25 time control system\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets.pack.json
+G:\Works\C#\25_01_25 time control system\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets.build.json
+G:\Works\C#\25_01_25 time control system\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets.development.json
+G:\Works\C#\25_01_25 time control system\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\scopedcss\bundle\RazorPagesApp.styles.css
+G:\Works\C#\25_01_25 time control system\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.dll
+G:\Works\C#\25_01_25 time control system\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\refint\RazorPagesApp.dll
+G:\Works\C#\25_01_25 time control system\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.pdb
+G:\Works\C#\25_01_25 time control system\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.genruntimeconfig.cache
+G:\Works\C#\25_01_25 time control system\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\ref\RazorPagesApp.dll
+G:\Works\C#\25_02_03 time control system Authoriz\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\appsettings.Development.json
+G:\Works\C#\25_02_03 time control system Authoriz\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\appsettings.json
+G:\Works\C#\25_02_03 time control system Authoriz\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.exe
+G:\Works\C#\25_02_03 time control system Authoriz\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.deps.json
+G:\Works\C#\25_02_03 time control system Authoriz\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.runtimeconfig.json
+G:\Works\C#\25_02_03 time control system Authoriz\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.dll
+G:\Works\C#\25_02_03 time control system Authoriz\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.pdb
+G:\Works\C#\25_02_03 time control system Authoriz\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.csproj.AssemblyReference.cache
+G:\Works\C#\25_02_03 time control system Authoriz\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Works\C#\25_02_03 time control system Authoriz\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.AssemblyInfoInputs.cache
+G:\Works\C#\25_02_03 time control system Authoriz\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.AssemblyInfo.cs
+G:\Works\C#\25_02_03 time control system Authoriz\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.csproj.CoreCompileInputs.cache
+G:\Works\C#\25_02_03 time control system Authoriz\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.MvcApplicationPartsAssemblyInfo.cache
+G:\Works\C#\25_02_03 time control system Authoriz\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.RazorAssemblyInfo.cache
+G:\Works\C#\25_02_03 time control system Authoriz\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.RazorAssemblyInfo.cs
+G:\Works\C#\25_02_03 time control system Authoriz\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets\msbuild.RazorPagesApp.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Works\C#\25_02_03 time control system Authoriz\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets\msbuild.build.RazorPagesApp.props
+G:\Works\C#\25_02_03 time control system Authoriz\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RazorPagesApp.props
+G:\Works\C#\25_02_03 time control system Authoriz\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RazorPagesApp.props
+G:\Works\C#\25_02_03 time control system Authoriz\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets.pack.json
+G:\Works\C#\25_02_03 time control system Authoriz\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets.build.json
+G:\Works\C#\25_02_03 time control system Authoriz\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets.development.json
+G:\Works\C#\25_02_03 time control system Authoriz\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\scopedcss\bundle\RazorPagesApp.styles.css
+G:\Works\C#\25_02_03 time control system Authoriz\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.dll
+G:\Works\C#\25_02_03 time control system Authoriz\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\refint\RazorPagesApp.dll
+G:\Works\C#\25_02_03 time control system Authoriz\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.pdb
+G:\Works\C#\25_02_03 time control system Authoriz\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.genruntimeconfig.cache
+G:\Works\C#\25_02_03 time control system Authoriz\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\ref\RazorPagesApp.dll
+G:\Works\C#\25_02_14 time control system Authoriz Admin\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\appsettings.Development.json
+G:\Works\C#\25_02_14 time control system Authoriz Admin\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\appsettings.json
+G:\Works\C#\25_02_14 time control system Authoriz Admin\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.exe
+G:\Works\C#\25_02_14 time control system Authoriz Admin\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.deps.json
+G:\Works\C#\25_02_14 time control system Authoriz Admin\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.runtimeconfig.json
+G:\Works\C#\25_02_14 time control system Authoriz Admin\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.dll
+G:\Works\C#\25_02_14 time control system Authoriz Admin\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.pdb
+G:\Works\C#\25_02_14 time control system Authoriz Admin\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.csproj.AssemblyReference.cache
+G:\Works\C#\25_02_14 time control system Authoriz Admin\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Works\C#\25_02_14 time control system Authoriz Admin\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.AssemblyInfoInputs.cache
+G:\Works\C#\25_02_14 time control system Authoriz Admin\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.AssemblyInfo.cs
+G:\Works\C#\25_02_14 time control system Authoriz Admin\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.csproj.CoreCompileInputs.cache
+G:\Works\C#\25_02_14 time control system Authoriz Admin\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.MvcApplicationPartsAssemblyInfo.cache
+G:\Works\C#\25_02_14 time control system Authoriz Admin\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.RazorAssemblyInfo.cache
+G:\Works\C#\25_02_14 time control system Authoriz Admin\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.RazorAssemblyInfo.cs
+G:\Works\C#\25_02_14 time control system Authoriz Admin\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets\msbuild.RazorPagesApp.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Works\C#\25_02_14 time control system Authoriz Admin\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets\msbuild.build.RazorPagesApp.props
+G:\Works\C#\25_02_14 time control system Authoriz Admin\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RazorPagesApp.props
+G:\Works\C#\25_02_14 time control system Authoriz Admin\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RazorPagesApp.props
+G:\Works\C#\25_02_14 time control system Authoriz Admin\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets.pack.json
+G:\Works\C#\25_02_14 time control system Authoriz Admin\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets.build.json
+G:\Works\C#\25_02_14 time control system Authoriz Admin\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets.development.json
+G:\Works\C#\25_02_14 time control system Authoriz Admin\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\scopedcss\bundle\RazorPagesApp.styles.css
+G:\Works\C#\25_02_14 time control system Authoriz Admin\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.dll
+G:\Works\C#\25_02_14 time control system Authoriz Admin\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\refint\RazorPagesApp.dll
+G:\Works\C#\25_02_14 time control system Authoriz Admin\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.pdb
+G:\Works\C#\25_02_14 time control system Authoriz Admin\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.genruntimeconfig.cache
+G:\Works\C#\25_02_14 time control system Authoriz Admin\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\ref\RazorPagesApp.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\appsettings.Development.json
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\appsettings.json
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.exe
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.deps.json
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.runtimeconfig.json
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.pdb
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.csproj.AssemblyReference.cache
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.AssemblyInfoInputs.cache
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.AssemblyInfo.cs
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.csproj.CoreCompileInputs.cache
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.MvcApplicationPartsAssemblyInfo.cache
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.RazorAssemblyInfo.cache
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.RazorAssemblyInfo.cs
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets\msbuild.RazorPagesApp.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets\msbuild.build.RazorPagesApp.props
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RazorPagesApp.props
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RazorPagesApp.props
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets.pack.json
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets.build.json
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets.development.json
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\scopedcss\bundle\RazorPagesApp.styles.css
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\refint\RazorPagesApp.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.pdb
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.genruntimeconfig.cache
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\ref\RazorPagesApp.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Azure.Core.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Azure.Identity.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\System.Memory.Data.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\System.Runtime.Caching.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\Works\C#\25_02_17 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.csproj.CopyComplete
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.csproj.AssemblyReference.cache
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.AssemblyInfoInputs.cache
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.AssemblyInfo.cs
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.csproj.CoreCompileInputs.cache
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.MvcApplicationPartsAssemblyInfo.cache
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.RazorAssemblyInfo.cache
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.RazorAssemblyInfo.cs
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.dll
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\refint\RazorPagesApp.dll
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.pdb
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\appsettings.Development.json
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\appsettings.json
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.exe
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.deps.json
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.runtimeconfig.json
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.dll
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.pdb
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Azure.Core.dll
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Azure.Identity.dll
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\System.Memory.Data.dll
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\System.Runtime.Caching.dll
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets\msbuild.RazorPagesApp.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets\msbuild.build.RazorPagesApp.props
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RazorPagesApp.props
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RazorPagesApp.props
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets.pack.json
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets.build.json
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets.development.json
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\scopedcss\bundle\RazorPagesApp.styles.css
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.csproj.CopyComplete
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.genruntimeconfig.cache
+G:\Works\C#\25_02_25 time control system Authoriz Admin DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\ref\RazorPagesApp.dll
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\appsettings.Development.json
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\appsettings.json
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.exe
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.deps.json
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.runtimeconfig.json
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.dll
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.pdb
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Azure.Core.dll
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Azure.Identity.dll
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\System.Memory.Data.dll
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\System.Runtime.Caching.dll
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.csproj.AssemblyReference.cache
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.AssemblyInfoInputs.cache
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.AssemblyInfo.cs
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.csproj.CoreCompileInputs.cache
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.MvcApplicationPartsAssemblyInfo.cache
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.RazorAssemblyInfo.cache
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.RazorAssemblyInfo.cs
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets\msbuild.RazorPagesApp.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets\msbuild.build.RazorPagesApp.props
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RazorPagesApp.props
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RazorPagesApp.props
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets.pack.json
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets.build.json
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets.development.json
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\scopedcss\bundle\RazorPagesApp.styles.css
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.csproj.CopyComplete
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.dll
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\refint\RazorPagesApp.dll
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.pdb
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.genruntimeconfig.cache
+G:\Works\C#\25_02_26 time control system Authoriz Admin 2DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\ref\RazorPagesApp.dll
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\appsettings.Development.json
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\appsettings.json
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.exe
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.deps.json
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.runtimeconfig.json
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.dll
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.pdb
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Azure.Core.dll
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Azure.Identity.dll
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\System.Memory.Data.dll
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\System.Runtime.Caching.dll
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.csproj.AssemblyReference.cache
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.AssemblyInfoInputs.cache
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.AssemblyInfo.cs
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.csproj.CoreCompileInputs.cache
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.MvcApplicationPartsAssemblyInfo.cache
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.RazorAssemblyInfo.cache
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.RazorAssemblyInfo.cs
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets\msbuild.RazorPagesApp.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets\msbuild.build.RazorPagesApp.props
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RazorPagesApp.props
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RazorPagesApp.props
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets.pack.json
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets.build.json
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets.development.json
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\scopedcss\bundle\RazorPagesApp.styles.css
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.csproj.CopyComplete
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.dll
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\refint\RazorPagesApp.dll
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.pdb
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.genruntimeconfig.cache
+G:\Works\C#\25_03_03 time control system Authoriz Admin 3DB\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\ref\RazorPagesApp.dll
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\appsettings.Development.json
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\appsettings.json
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.exe
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.deps.json
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.runtimeconfig.json
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.dll
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.pdb
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Azure.Core.dll
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Azure.Identity.dll
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\System.Memory.Data.dll
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\System.Runtime.Caching.dll
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.csproj.AssemblyReference.cache
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.AssemblyInfoInputs.cache
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.AssemblyInfo.cs
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.csproj.CoreCompileInputs.cache
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.MvcApplicationPartsAssemblyInfo.cache
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.RazorAssemblyInfo.cache
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.RazorAssemblyInfo.cs
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets\msbuild.RazorPagesApp.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets\msbuild.build.RazorPagesApp.props
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RazorPagesApp.props
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RazorPagesApp.props
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets.pack.json
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets.build.json
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets.development.json
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\scopedcss\bundle\RazorPagesApp.styles.css
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.dll
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\refint\RazorPagesApp.dll
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.pdb
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPagesApp.genruntimeconfig.cache
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\ref\RazorPagesApp.dll
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\RazorPagesApp.staticwebassets.endpoints.json
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets\msbuild.RazorPagesApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\obj\Debug\net7.0\RazorPag.F53D91AC.Up2Date
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Works\C#\25_03_12 time control system Authoriz Admin 3DB с нав св-вом\RazorPagesApp\RazorPagesApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll

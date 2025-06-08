@@ -1,0 +1,56 @@
+﻿@page
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model RazorPagesApp.Pages.VisitorLogModel
+@{}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8' />
+    <title>Ваша фирма</title>
+    <h2>Журнал посещений</h2>
+</head>
+<body text="#E6E6FA" bgcolor="#000000">
+    <button> <a asp-page="login">Войти</a></button>
+    <button> <a asp-page="Index">Главная</a></button>
+    Журнал посещений
+    <button> <a asp-page="Report">Учёт времени</a></button>
+    <button> <a asp-page="manage">Администрирование</a></button>
+    <br>
+    <br>
+    <h3>Последние 10 проходов:</h3>
+    <table>
+        <colgroup>
+            <col span="1" style="background:DarkSlateGrey">                         <!-- Фон первого столбца таблицы-->
+            <col span="8" style="background-color:DimGrey">                  <!-- Фон для следующего(следующих) столбца таблицы-->
+        </colgroup>
+        <tr align=center style="background:Purple; color: #E6E6FA">
+            <th>"Id"</th>
+            <th>Фамилия</th>
+            <th>Имя</th>
+            <th>Отчество</th>
+            <th>"Email сотрудника"</th>
+            <th>Статус</th>
+            <th>Дата</th>
+            <th>Время</th>
+            <th>Кабинет</th>
+        </tr>
+        @foreach (var TimeTrack in Model.TimeTracks.OrderByDescending(p => p.dateStamp).Take(100))
+        {
+            <tr>
+                <td>@TimeTrack.Id</td>
+                <td>@TimeTrack.User.Surname</td>
+                <td>@TimeTrack.User.Name</td>
+                <td>@TimeTrack.User.Patronymic</td>
+                <td>@TimeTrack.User.Email</td>
+                <td>@TimeTrack.status</td>
+                <td>@TimeTrack.dateStamp.ToShortDateString()</td>
+                <td>@TimeTrack.dateStamp.ToShortTimeString()</td>
+                <td>@TimeTrack.Room</td>
+            </tr>
+        }
+    </table>
+
+</body>
+</html>
+
