@@ -18,3 +18,7 @@
 https://easyeda.com/editor#id=|d8ee2e7310e04b4c9b0a1d2f505d70d9|057d81acf9ac43628882bb58d4779dad
 https://oshwlab.com/jacksondjimm/acms
 
+Ссылка на видео по серверу учёта рабочего времени сотрудников:
+https://youtu.be/9_Qk6XIIlG8
+
+
